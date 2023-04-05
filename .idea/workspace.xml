@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a53e681a-4c40-4ce2-96e9-603f2fccf386" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Controller/MixController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/VinylMix.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/VinylMix.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/VinylController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/VinylController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +158,10 @@
       <workItem from="1680382567146" duration="37000" />
       <workItem from="1680382661201" duration="7000" />
       <workItem from="1680383336348" duration="104000" />
-      <workItem from="1680596210840" duration="2731000" />
+      <workItem from="1680596210840" duration="3293000" />
+      <workItem from="1680695618594" duration="2213000" />
+      <workItem from="1680699127432" duration="141000" />
+      <workItem from="1680712836498" duration="24000" />
     </task>
     <servers />
   </component>
