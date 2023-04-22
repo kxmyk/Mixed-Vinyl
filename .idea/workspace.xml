@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a53e681a-4c40-4ce2-96e9-603f2fccf386" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Controller/MixController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/MixController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/MixController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/SongController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/SongController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/VinylController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/VinylController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity/VinylMix.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/VinylMix.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Service/MixRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/vinyl/browse.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/vinyl/browse.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/vinyl/homepage.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/vinyl/homepage.html.twig" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +35,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -113,21 +120,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kamillukasiuk/Desktop/webDev/symfony5/Vinyls&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "last_opened_file_path": "/Users/kamillukasiuk/Desktop/webDev/symfony5/Vinyls",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/templates/vinyl" />
@@ -162,6 +171,8 @@
       <workItem from="1680695618594" duration="2213000" />
       <workItem from="1680699127432" duration="141000" />
       <workItem from="1680712836498" duration="24000" />
+      <workItem from="1680732899887" duration="70000" />
+      <workItem from="1682192527801" duration="1451000" />
     </task>
     <servers />
   </component>
